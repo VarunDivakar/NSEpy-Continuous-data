@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  8 10:11:24 2018
 
-@author: academy
+@author: Varun
 """
 from nsepy import history
 from datetime import date ,timedelta
