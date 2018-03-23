@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  8 13:44:13 2018
 
-@author: academy
+@author: Varun
 """
 
 import NSEpy_Download as nd
